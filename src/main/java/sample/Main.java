@@ -11,6 +11,8 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
+//problem with javafx library
+
 public class Main extends Application implements EventHandler {
 
     private CheckBox bananaCB;
