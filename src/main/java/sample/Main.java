@@ -12,6 +12,7 @@ import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
 //problem with javafx library
+// still thinking
 
 public class Main extends Application implements EventHandler {
 
